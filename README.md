@@ -9,6 +9,8 @@ Course material contains:
 * Jupyter Notebooks for demos from the slides
 * Assignments (also Jupyter Notebooks, one per week)
 
+The material in this repo is licensed under Creative Commons Attribution 4.0 International License.
+
 ## Overview
 
 **Day 1:**
