@@ -1,10 +1,10 @@
 # python-intro
 
-Material for an intermediate course for the Centre for Data, Culture & Society about the programming language Python.
+Material for a beginner course for the Centre for Data, Culture & Society about the programming language Python.
 
-Taught by Lucy Havens in semester 2 of academic year 2022
+Taught by Lucy Havens in semester 2 of the academic year 2022
 
-Course material contains:
+The course material contains:
 * Lecture Slides (two per week)
 * Jupyter Notebooks for demos from the slides
 * Assignments (also Jupyter Notebooks, one per week)
