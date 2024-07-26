@@ -124,6 +124,11 @@ Make sure you know the location they have been downloaded to (usually your 'Down
 3.  Once the file has been uploaded, click on the filename to start the Notebook
 
 
+## License
+This repository has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
+
+
+
 [anaconda]: https://www.anaconda.com/distribution
 [anaconda-dl]: https://www.anaconda.com/download/
 [python]: https://python.org
